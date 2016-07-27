@@ -74,4 +74,4 @@ deploy:
   type: git
   repository: git@github.com:AnromOS/AnromOS.github.io.git
   branch: master
-  message: fix themes landscape have not background
+  message: remove test blog
