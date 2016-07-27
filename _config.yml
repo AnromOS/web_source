@@ -74,4 +74,4 @@ deploy:
   type: git
   repository: git@github.com:AnromOS/AnromOS.github.io.git
   branch: master
-  message: upload two shell,one for auto create blog another for auto deploy
+  message: fix themes landscape have not background
