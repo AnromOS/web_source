@@ -1,18 +1,21 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-rss: /atom.xml
+  首页: /
+  版本: /archives
+  下载: http://u.mixun.org/#devices
+  文档: /documents
+  源码: https://github.com/AnromOS
+  关于: /about
+#rss: /atom.xml
 
 # Content
 excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: right
+sidebar: left
 widgets:
 - category
-- tag
 - tagcloud
 - archive
 - recent_posts
