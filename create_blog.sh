@@ -6,7 +6,7 @@
 echo $1 
 echo $2
 CHANGE_LOG=$2 #path of change log
-HEXO_DIR='/home/jinwh/rom_os' #path of your HEXO
+HEXO_DIR='/path/to/you/hexo' #path of your HEXO
 POSTS_DIR=$HEXO_DIR'/source/_posts' 
 
 echo $CHANGE_LOG
