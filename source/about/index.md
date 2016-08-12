@@ -15,9 +15,16 @@ date: 2016-08-02 15:49:47
 查找[帮助文档](/documents)
 
 ## 联系方式
-或者关注我们的[Github](https://github.com/AnromOS)
+关注我们的[Github](https://github.com/AnromOS)
 
 参与技术讨论QQ群: 76240378
 
 或者发送邮件联系: [anrom_os@163.com](mailto:anrom_os@163.com)
 
+-----
+## 感谢:
+[Android Open Source Project](http://source.android.com/)
+[Cyanogenmod](http://www.cyanogenmod.org/)
+[魔趣论坛](http://bbs.mfunz.com)
+[xposed框架](http://forum.xda-developers.com/showthread.php?t=3034811)
+[Xprivacy](https://github.com/M66B/XPrivacy)
