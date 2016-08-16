@@ -74,4 +74,4 @@ deploy:
   type: git
   repository: git@github.com:AnromOS/AnromOS.github.io.git
   branch: master
-  message: remove test blog
+  message: change category and tags,modify create_blog.sh

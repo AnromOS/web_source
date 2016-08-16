@@ -1,5 +1,10 @@
 ---
 title: 欢迎您使用Anrom
+category: 
+	- ROM文档
+tags:
+	- Anrom
+	- 文档
 date: 2016-08-02 15:49:47
 ---
 
